@@ -1,0 +1,41 @@
+#name{
+  background: pink;
+  color: coral;
+  font-weight: bold;
+  text-align:center;
+}
+#vk{
+  background: linear-gradient(15deg,
+  #FFDF00, #D4AF37, #CFB53B, #C5B358, #C9AE5D,#CD7F32,#D3D3D3, #C0C0C0, #A9A9A9,#FFDF00, #D4AF37, #CFB53B, #C5B358, #C9AE5D,#CD7F32,#D3D3D3, #C0C0C0, #A9A9A9, #FFDF00, #D4AF37, #CFB53B, #C5B358, #C9AE5D,#CD7F32,#D3D3D3, #C0C0C0, #A9A9A9			
+  );
+  -webkit-background-clip: text;
+  color:transparent;
+  background-clip: text;
+  font-weight: bold;
+  text-align:center;
+}
+#job{
+  background:#6AFB92;
+  color:green;
+  font-weight: bold;
+}
+#job2{
+  color:#C3FDB8;
+  font-weight: bold; 
+}
+#like{
+  background:#8A2BE2;
+  color:#D8BFD8;
+  font-weight: bold
+  }
+#like2{
+  color:violet;
+  font-weight: bold
+}
+#click{
+  color: aqua;
+  font-weight: bold
+}
+span {
+  background-color: pink;
+}
